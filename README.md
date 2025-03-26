@@ -94,7 +94,7 @@ Feel free to drop me a message or check out my work on GitHub.
 
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **X:** [@TANMYPATIL99](https://x.com/TANMYPATIL99?t=QDygPcLw0FSD6ixa7Botzg&s=09)
 
 ---
 

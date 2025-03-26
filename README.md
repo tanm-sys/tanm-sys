@@ -92,7 +92,7 @@ Here are some of the key projects from my portfolio:
 I love connecting with like-minded tech enthusiasts and creative minds!  
 Feel free to drop me a message or check out my work on GitHub.
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [tanmayspatil2006@proton.me](mailto: tanmayspatil2006@proton.me)
 - **LinkedIn:** [linkedin.com/in/tanmay-patil](https://www.linkedin.com/in/tanmay-patil-6b55ba1a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **X:** [@TANMYPATIL99](https://x.com/TANMYPATIL99?t=QDygPcLw0FSD6ixa7Botzg&s=09)
 

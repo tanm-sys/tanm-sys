@@ -1,6 +1,6 @@
-<!-- New Dynamic README Variant -->
+<!-- New Dynamic README Variant with Updated Dynamic Cells -->
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-<div style="max-width: 960px; margin: 0 auto; padding: 40px; font-family: 'Roboto', sans-serif; background: linear-gradient(135deg, #1e3c72, #2a5298); border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); color: #fff;">
+<div style="max-width: 960px; margin: 0 auto; padding: 40px; font-family: 'Roboto', sans-serif; background: linear-gradient(135deg, #0d2538, #1d4e89); border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); color: #fff;">
   <!-- Header Section -->
   <header style="text-align: center; margin-bottom: 40px;">
     <h1 style="font-size: 3em; margin: 0;">Hello, Welcome!</h1>
@@ -11,10 +11,12 @@
   <section style="margin-bottom: 40px; background: rgba(255, 255, 255, 0.1); padding: 30px; border-radius: 8px;">
     <h2 style="text-align: center; font-size: 2em; margin-bottom: 20px;">I Really Love Music <span style="font-size: 0.8em;">🎧</span></h2>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+      <!-- Now Playing: Dynamic Call -->
       <a href="https://readme.andyruwruw.com/api/now-playing?open" style="flex: 1 1 300px;">
-        <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" alt="Now Playing" style="width: 100%; border-radius: 8px; border: 2px solid rgba(255,255,255,0.3);">
+        <img src="https://readme.andyruwruw.com/api/now-playing" alt="Now Playing" style="width: 100%; border-radius: 8px; border: 2px solid rgba(255,255,255,0.3);">
       </a>
-      <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg" alt="Top Played" style="flex: 1 1 300px; width: 100%; border-radius: 8px; border: 2px solid rgba(255,255,255,0.3);">
+      <!-- Top Played: Dynamic Call -->
+      <img src="https://readme.andyruwruw.com/api/top-played" alt="Top Played" style="flex: 1 1 300px; width: 100%; border-radius: 8px; border: 2px solid rgba(255,255,255,0.3);">
     </div>
   </section>
 

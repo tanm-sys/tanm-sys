@@ -69,27 +69,21 @@ Below is a dynamic showcase of my skills, powered by [skillicons.dev](https://sk
 
 ## Highlighted Projects
 
-Below are some of my popular repositories that showcase my diverse interests:
+Here are some of the key projects from my portfolio:
 
-- ### [Ransomware-for-Android-](https://github.com/tanm-sys/Ransomware-for-Android-)
-  > *"Created for educational purposes – explore and learn about cybersecurity in a safe environment."*
-  
-- ### [Flex1080-DoS-Exploit](https://github.com/tanm-sys/Flex1080-DoS-Exploit)
-  > A Python-based tool to understand network stress testing.
-  
-- ### [WannaCry-Ransomware](https://github.com/tanm-sys/WannaCry-Ransomware)
-  > An experimental project (for education only) that dives into ransomware mechanics.
-  
-- ### [Automated-Script-for-Making-Payload-in-Kali-Linux](https://github.com/tanm-sys/Automated-script-for-making-payload-in-Kali-Linux-with-more-advanced-functionlity-)
-  > Advanced scripting in Kali Linux – automation is key.
-  
-- ### [Web](https://github.com/tanm-sys/Web)
-  > A collection of modern JavaScript experiments.
-  
-- ### [Nivistealer](https://github.com/tanm-sys/Nivistealer)
-  > (Forked) A tool to study system vulnerabilities and digital forensics.
+- ### [Serverless DNS](https://github.com/tanm-sys/serverless-dns)
+  > A cutting-edge, serverless DNS management solution designed for scalability and efficiency.
 
-*Note: All security-related projects are for research and educational purposes only. Always use them responsibly.*
+- ### [HashBreach-Pro](https://github.com/tanm-sys/HashBreach-Pro)
+  > A professional-grade tool focused on understanding hash breaches – developed purely for research and educational purposes.
+
+- ### [SecureCryptSuite](https://github.com/tanm-sys/SecureCryptSuite)
+  > A robust suite of secure cryptographic tools designed to help you implement and explore modern encryption techniques.
+
+- ### [SecureImageTool](https://github.com/tanm-sys/SecureImageTool)
+  > A tool for secure image processing, offering features such as image encryption and secure watermarking for enhanced privacy.
+
+*Note: All security-related projects are for research and educational purposes only. Please use responsibly.*
 
 ---
 

@@ -1,4 +1,4 @@
-<!-- Advanced Dynamic README for tanm-sys -->
+<!-- Advanced Dynamic README for tanm-sys with More Fluent Icons -->
 
 <div align="center">
   <h1 style="font-size: 3em; margin-bottom: 0.2em;">Tanmay Patil (<code>tanm-sys</code>)</h1>
@@ -19,6 +19,21 @@
   
   <!-- Optional animated GIF banner (replace URL with your custom banner) -->
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Vibes" width="80%" style="max-width:600px;">
+  
+  <!-- Fluent Social Icons -->
+  <div style="margin-top: 1em;">
+    <a href="mailto:your-email@example.com" title="Email">
+      <img src="https://static2.sharepointonline.com/files/fabric-cdn-prod/office-ui-fabric-react-assets/item-icons/Email.svg" alt="Email Icon" width="28" style="vertical-align:middle; margin: 0 8px;">
+    </a>
+    <a href="https://linkedin.com/in/yourprofile" title="LinkedIn">
+      <!-- Replace with a Fluent-style LinkedIn icon if available -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="28" style="vertical-align:middle; margin: 0 8px;">
+    </a>
+    <a href="https://twitter.com/yourhandle" title="Twitter">
+      <!-- Using Twitter's favicon as a placeholder -->
+      <img src="https://abs.twimg.com/favicons/twitter.ico" alt="Twitter Icon" width="28" style="vertical-align:middle; margin: 0 8px;">
+    </a>
+  </div>
 </div>
 
 ---

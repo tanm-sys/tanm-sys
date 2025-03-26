@@ -1,4 +1,4 @@
-<!-- Advanced Dynamic README for tanm-sys with More Fluent Icons -->
+<!-- Advanced Dynamic README for tanm-sys -->
 
 <div align="center">
   <h1 style="font-size: 3em; margin-bottom: 0.2em;">Tanmay Patil (<code>tanm-sys</code>)</h1>
@@ -17,23 +17,8 @@
     </a>
   </p>
   
-  <!-- Optional animated GIF banner (replace URL with your custom banner) -->
+  <!-- Optional animated GIF banner -->
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Vibes" width="80%" style="max-width:600px;">
-  
-  <!-- Fluent Social Icons -->
-  <div style="margin-top: 1em;">
-    <a href="mailto:your-email@example.com" title="Email">
-      <img src="https://static2.sharepointonline.com/files/fabric-cdn-prod/office-ui-fabric-react-assets/item-icons/Email.svg" alt="Email Icon" width="28" style="vertical-align:middle; margin: 0 8px;">
-    </a>
-    <a href="https://linkedin.com/in/yourprofile" title="LinkedIn">
-      <!-- Replace with a Fluent-style LinkedIn icon if available -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="28" style="vertical-align:middle; margin: 0 8px;">
-    </a>
-    <a href="https://twitter.com/yourhandle" title="Twitter">
-      <!-- Using Twitter's favicon as a placeholder -->
-      <img src="https://abs.twimg.com/favicons/twitter.ico" alt="Twitter Icon" width="28" style="vertical-align:middle; margin: 0 8px;">
-    </a>
-  </div>
 </div>
 
 ---
@@ -42,6 +27,7 @@
 
 - [About Me](#about-me)
 - [My Passions & Skills](#my-passions--skills)
+- [Skill Icons Showcase](#skill-icons-showcase)
 - [Highlighted Projects](#highlighted-projects)
 - [Get in Touch](#get-in-touch)
 
@@ -64,6 +50,20 @@ I like to explore everything—from cutting-edge exploits (for ethical and educa
 - **Cybersecurity (Educational):** Ransomware & DoS exploits – strictly for learning and awareness.
 - **Communication:** I value clear, creative, and honest communication in every project.
 - **Music Lover:** Because sometimes, you need a good playlist to power through a coding session.
+
+---
+
+## Skill Icons Showcase
+
+Below is a dynamic showcase of my skills, powered by [skillicons.dev](https://skillicons.dev). This section uses fluent icons from the skill‑icons repository to visually represent my tech stack. Feel free to update the icons by changing the comma‑separated list.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,git,react,nodejs,angular,java,visualstudio,tailwind,github" alt="My Skills Icons" style="max-width:100%;">
+  </a>
+</p>
+
+*Tip: You can specify a theme by appending `&theme=light` or `&theme=dark` to the URL, and control the number of icons per line with `&perline=10` (or any number between 1 and 50).*
 
 ---
 

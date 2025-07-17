@@ -1,103 +1,101 @@
-<!-- Advanced Dynamic README for tanm-sys -->
-
-<div align="center">
-  <h1 style="font-size: 3em; margin-bottom: 0.2em;">Tanmay Patil (<code>tanm-sys</code>)</h1>
-  <p style="font-size: 1.3em; font-style: italic;">Coding, jQuery, music, and out-of-the-box creativity – all in one place.</p>
-  
-  <!-- Dynamic Badges -->
-  <p>
-    <a href="https://github.com/tanm-sys">
-      <img src="https://img.shields.io/github/followers/tanm-sys?style=social" alt="GitHub Followers">
-    </a>
-    <a href="https://github.com/tanm-sys?tab=repositories">
-      <img src="https://img.shields.io/github/stars/tanm-sys?style=social" alt="GitHub Stars">
-    </a>
-    <a href="https://github.com/tanm-sys">
-      <img src="https://img.shields.io/github/last-commit/tanm-sys/tanm-sys" alt="Last Commit">
-    </a>
-  </p>
-  
-  <!-- Optional animated GIF banner -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Vibes" width="80%" style="max-width:600px;">
-</div>
-
----
-
-## Table of Contents
-
-- [About Me](#about-me)
-- [My Passions & Skills](#my-passions--skills)
-- [Skill Icons Showcase](#skill-icons-showcase)
-- [Highlighted Projects](#highlighted-projects)
-- [Get in Touch](#get-in-touch)
-
----
-
-## About Me
-
-Hello there! I'm **Tanmay Patil** – a self-taught coder with a passion for both technology and tunes.  
-I’m a proud jQuery fanboy (yes, even in this modern age) who believes that effective communication is the secret sauce of innovation.  
-I like to explore everything—from cutting-edge exploits (for ethical and educational exploration only) to creating dynamic web experiences.
-
-> *"I really like music. Code flows like a symphony, and every line is a beat in the rhythm of creativity."*
-
----
-
-## My Passions & Skills
-
-- **Programming Languages:** JavaScript, Python, Visual Basic .NET, Rust, and more.
-- **Web & UI/UX:** jQuery, modern CSS/HTML, and fluid responsive design.
-- **Cybersecurity (Educational):** Ransomware & DoS exploits – strictly for learning and awareness.
-- **Communication:** I value clear, creative, and honest communication in every project.
-- **Music Lover:** Because sometimes, you need a good playlist to power through a coding session.
-
----
-
-## Skill Icons Showcase
-
-Below is a dynamic showcase of my skills, powered by [skillicons.dev](https://skillicons.dev). This section uses fluent icons from the skill‑icons repository to visually represent my tech stack. Feel free to update the icons by changing the comma‑separated list.
+<!-- README for tanm-sys | Tanmay Patil -->
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,git,react,nodejs,angular,java,visualstudio,tailwind,github" alt="My Skills Icons" style="max-width:100%;">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Vibes" width="60%" style="max-width:400px; border-radius:15px;">
+</p>
+
+<h1 align="center">Tanmay Patil <sub><code>@tanm-sys</code></sub></h1>
+<p align="center">🚀 Coding | 🎵 Music | 💡 Creativity | <strong>Always Exploring!</strong></p>
+
+<p align="center">
+  <a href="https://github.com/tanm-sys">
+    <img src="https://img.shields.io/github/followers/tanm-sys?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/tanm-sys?tab=repositories">
+    <img src="https://img.shields.io/github/stars/tanm-sys?label=Stars&style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/tanm-sys/tanm-sys/commits/main">
+    <img src="https://img.shields.io/github/last-commit/tanm-sys/tanm-sys?style=flat-square" alt="Last Commit">
   </a>
 </p>
 
-*Tip: You can specify a theme by appending `&theme=light` or `&theme=dark` to the URL, and control the number of icons per line with `&perline=10` (or any number between 1 and 50).*
+---
+
+## 🎶 About Me
+
+**Hi, I’m Tanmay** – self-taught programmer, music enthusiast, and fan of doing things just a bit differently.<br>
+A passionate jQuery advocate (yep, still in 2025!), I love mixing the rhythm of music with the logic of code.  
+Exploring cutting-edge tech, building fun and secure tools, and connecting with creative folks is what energizes me.
+
+> _“Code flows like a symphony; every line is a beat in the rhythm of creativity.”_
 
 ---
 
-## Highlighted Projects
+## 🚀 What Drives Me
 
-Here are some of the key projects from my portfolio:
-
-- ### [Serverless DNS](https://github.com/tanm-sys/serverless-dns)
-  > A cutting-edge, serverless DNS management solution designed for scalability and efficiency.
-
-- ### [HashBreach-Pro](https://github.com/tanm-sys/HashBreach-Pro)
-  > A professional-grade tool focused on understanding hash breaches – developed purely for research and educational purposes.
-
-- ### [SecureCryptSuite](https://github.com/tanm-sys/SecureCryptSuite)
-  > A robust suite of secure cryptographic tools designed to help you implement and explore modern encryption techniques.
-
-- ### [SecureImageTool](https://github.com/tanm-sys/SecureImageTool)
-  > A tool for secure image processing, offering features such as image encryption and secure watermarking for enhanced privacy.
-
-*Note: All security-related projects are for research and educational purposes only. Please use responsibly.*
+- 🧑‍💻 **Programming Languages:** JavaScript, Python, Rust, Visual Basic .NET, Java
+- 🌐 **Web & UI/UX:** jQuery, React, Angular, modern HTML & CSS, responsive design
+- 🕵️‍♂️ **Cybersecurity:** Educational dives into exploits, cryptography, and digital resilience (always ethical!)
+- 👥 **Communication:** Clear, open, and creative collaboration on every project
+- 🎼 **Music:** My source of focus, fun, and inspiration during every coding sprint
 
 ---
 
-## Get in Touch
+## 🛠️ Tech Stack
 
-I love connecting with like-minded tech enthusiasts and creative minds!  
-Feel free to drop me a message or check out my work on GitHub.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,git,react,nodejs,angular,java,visualstudio,tailwind,github&perline=7&theme=light" alt="skills"/>
+  </a>
+</p>
 
-- **Email:** [tanmayspatil2006@proton.me](mailto:tanmayspatil2006@proton.me?subject=Enter%20your%20query%20here.&body=Enter%20your%20query%20in%20detail.)
-- **LinkedIn:** [linkedin.com/in/tanmay-patil](https://www.linkedin.com/in/tanmay-patil-6b55ba1a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **X:** [@TANMYPATIL99](https://x.com/TANMYPATIL99?t=QDygPcLw0FSD6ixa7Botzg&s=09)
+<details>
+<summary>🎨 <b>Customize icons with skillicons.dev</b></summary>
+
+Edit your tech stack visually—just update the icon keys in the URL.  
+Try `&theme=dark` or adjust `&perline=#` for more/less icons per row.
+</details>
 
 ---
 
-<div align="center" style="margin-top: 2em; font-size: 0.9em; color: #555;">
-  © 2025 Tanmay Patil | Built with passion on GitHub
-</div>
+## ⭐ Highlight Projects
+
+<table>
+  <tr>
+    <td><a href="https://github.com/tanm-sys/serverless-dns"><b>Serverless DNS</b></a></td>
+    <td>🚦 Serverless, scalable DNS management — modern infra, lightning fast.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tanm-sys/HashBreach-Pro"><b>HashBreach-Pro</b></a></td>
+    <td>🔐 Breach analytics tool for hash research & education (use responsibly!)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tanm-sys/SecureCryptSuite"><b>SecureCryptSuite</b></a></td>
+    <td>🔑 A robust cryptography toolbox — learn, implement, and experiment with encryption.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tanm-sys/SecureImageTool"><b>SecureImageTool</b></a></td>
+    <td>🖼️ Secure image processing: encryption & watermarking for next-level privacy.</td>
+  </tr>
+</table>
+
+> _All security-related work is for research & educational awareness. Use responsibly!_ 🙏
+
+---
+
+## 💬 Let's Connect
+
+I love meeting techies, musicians, makers, and curious minds.  
+Reach out and let’s spark something great!
+
+- 📫 **Email:** [tanmayspatil2006@proton.me](mailto:tanmayspatil2006@proton.me?subject=Hello%20Tanmay!&body=Your%20message%20here)
+- 💼 **LinkedIn:** [tanmay-patil](https://www.linkedin.com/in/tanmay-patil-6b55ba1a7/)
+- 🐦 **X (Twitter):** [@TANMYPATIL99](https://x.com/TANMYPATIL99)
+
+---
+
+<p align="center">
+  <sub>Made with passion, music, and code.<br>
+  &copy; 2025 Tanmay Patil | <a href="https://github.com/tanm-sys">tanm-sys</a>
+  </sub>
+</p>

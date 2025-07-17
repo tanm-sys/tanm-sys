@@ -1,101 +1,152 @@
-<!-- README for tanm-sys | Tanmay Patil -->
+# 🚀 Tanmay Patil
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Vibes" width="60%" style="max-width:400px; border-radius:15px;">
-</p>
+<div align="center">
 
-<h1 align="center">Tanmay Patil <sub><code>@tanm-sys</code></sub></h1>
-<p align="center">🚀 Coding | 🎵 Music | 💡 Creativity | <strong>Always Exploring!</strong></p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Tanmay;Computer+Engineering+Student;AI+%7C+Cybersecurity+%7C+Full+Stack;Always+Learning%2C+Always+Building)
 
-<p align="center">
-  <a href="https://github.com/tanm-sys">
-    <img src="https://img.shields.io/github/followers/tanm-sys?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/tanm-sys?tab=repositories">
-    <img src="https://img.shields.io/github/stars/tanm-sys?label=Stars&style=social" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/tanm-sys/tanm-sys/commits/main">
-    <img src="https://img.shields.io/github/last-commit/tanm-sys/tanm-sys?style=flat-square" alt="Last Commit">
-  </a>
-</p>
+**`Curious | Creative | Code-Driven | Always Evolving`**
 
----
+*3rd Year Computer Engineering - Walchand Institute of Technology, Solapur*
 
-## 🎶 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-patil-6b55ba1a7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmayspatil2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanm-sys)
 
-**Hi, I’m Tanmay** – self-taught programmer, music enthusiast, and fan of doing things just a bit differently.<br>
-A passionate jQuery advocate (yep, still in 2025!), I love mixing the rhythm of music with the logic of code.  
-Exploring cutting-edge tech, building fun and secure tools, and connecting with creative folks is what energizes me.
+</div>
 
-> _“Code flows like a symphony; every line is a beat in the rhythm of creativity.”_
+## 🎯 About Me
 
----
+> *"Turning imagination into innovation through code, AI, and cybersecurity"*
 
-## 🚀 What Drives Me
+I'm a passionate technologist who believes in **execution over ideas**. My journey revolves around building meaningful software solutions, exploring cutting-edge AI technologies, and strengthening cybersecurity landscapes. I thrive on shipping fast, learning in public, and contributing to tech that makes a difference.
 
-- 🧑‍💻 **Programming Languages:** JavaScript, Python, Rust, Visual Basic .NET, Java
-- 🌐 **Web & UI/UX:** jQuery, React, Angular, modern HTML & CSS, responsive design
-- 🕵️‍♂️ **Cybersecurity:** Educational dives into exploits, cryptography, and digital resilience (always ethical!)
-- 👥 **Communication:** Clear, open, and creative collaboration on every project
-- 🎼 **Music:** My source of focus, fun, and inspiration during every coding sprint
+**Current Focus:** Building AI agents for cybersecurity automation while preparing for high-impact industry roles or launching my own tech startup.
 
----
+## 🛠️ Tech Arsenal
 
-## 🛠️ Tech Stack
+<div align="center">
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,git,react,nodejs,angular,java,visualstudio,tailwind,github&perline=7&theme=light" alt="skills"/>
-  </a>
-</p>
+### **Programming Languages**
 
-<details>
-<summary>🎨 <b>Customize icons with skillicons.dev</b></summary>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-Edit your tech stack visually—just update the icon keys in the URL.  
-Try `&theme=dark` or adjust `&perline=#` for more/less icons per row.
-</details>
+### **Frameworks & Tools**
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## ⭐ Highlight Projects
+</div>
+
+## 💡 What I'm Building
 
 <table>
-  <tr>
-    <td><a href="https://github.com/tanm-sys/serverless-dns"><b>Serverless DNS</b></a></td>
-    <td>🚦 Serverless, scalable DNS management — modern infra, lightning fast.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tanm-sys/HashBreach-Pro"><b>HashBreach-Pro</b></a></td>
-    <td>🔐 Breach analytics tool for hash research & education (use responsibly!)</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tanm-sys/SecureCryptSuite"><b>SecureCryptSuite</b></a></td>
-    <td>🔑 A robust cryptography toolbox — learn, implement, and experiment with encryption.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tanm-sys/SecureImageTool"><b>SecureImageTool</b></a></td>
-    <td>🖼️ Secure image processing: encryption & watermarking for next-level privacy.</td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 **Cybersecurity & Ethical Hacking**
+- Automated penetration testing frameworks
+- Vulnerability assessment tools
+- Security monitoring systems
+- Incident response automation
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 **AI/ML & LLMs**
+- Intelligent automation agents
+- Machine learning pipelines
+- NLP-powered applications
+- Computer vision projects
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 **Full Stack Development**
+- Scalable web applications
+- RESTful APIs and microservices
+- Modern frontend experiences
+- Database optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 **Data Engineering & Automation**
+- ETL pipeline automation
+- Real-time data processing
+- Performance monitoring tools
+- Cloud infrastructure management
+
+</td>
+</tr>
 </table>
 
-> _All security-related work is for research & educational awareness. Use responsibly!_ 🙏
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-## 💬 Let's Connect
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanm-sys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanm-sys&layout=compact&theme=tokyonight&border_radius=10"/>
 
-I love meeting techies, musicians, makers, and curious minds.  
-Reach out and let’s spark something great!
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanm-sys&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 
-- 📫 **Email:** [tanmayspatil2006@proton.me](mailto:tanmayspatil2006@proton.me?subject=Hello%20Tanmay!&body=Your%20message%20here)
-- 💼 **LinkedIn:** [tanmay-patil](https://www.linkedin.com/in/tanmay-patil-6b55ba1a7/)
-- 🐦 **X (Twitter):** [@TANMYPATIL99](https://x.com/TANMYPATIL99)
+</div>
 
----
 
-<p align="center">
-  <sub>Made with passion, music, and code.<br>
-  &copy; 2025 Tanmay Patil | <a href="https://github.com/tanm-sys">tanm-sys</a>
-  </sub>
-</p>
+## 🎮 Beyond Code
+
+**Learning Philosophy:** From systems internals to web3, I dive deep into emerging technologies and chase what's next in the tech landscape. I believe in continuous learning and sharing knowledge with the community.
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### **I'm Always Open To:**
+🔗 **Open Source Projects** - 💡 **Tech Collaborations** - 🚀 **Startup Ideas** - 💼 **Industry Opportunities**
+
+### **Reach Out:**
+📧 **Email:** [tanmayspatil2006@gmail.com](mailto:tanmayspatil2006@gmail.com)  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tanmay-patil-6b55ba1a7/)  
+💬 **GitHub:** Always up for code discussions and reviews
+
+</div>
+
+## 💭 Philosophy
+
+<div align="center">
+
+> *"Stay hungry. Stay foolish."* — Steve Jobs
+
+> *"The code you write today is the future you unlock tomorrow."* — Me, probably
+
+> *"In the intersection of AI and cybersecurity lies the future of digital safety."* — My Tech Vision
+
+</div>
+
+<div align="center">
+
+### ⚡ Fun Fact
+*This README evolves as I do. Expect more projects, more chaos, and a lot more code soon.*
+
+**Made with ❤️ and lots of ☕**
+
+<img src="https://komarev.com/ghpvc/?username=tanm-sys&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+⭐ *If you found this interesting, consider starring some of my repositories!*
+
+</div>
+
+

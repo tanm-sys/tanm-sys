@@ -98,7 +98,8 @@ I'm a passionate technologist who believes in **execution over ideas**. My journ
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanm-sys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanm-sys&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&cache_seconds=86400"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanm-sys&layout=compact&theme=tokyonight&border_radius=10"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanm-sys&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
